@@ -1,2 +1,2 @@
-# Confg-Fastfetch-GetThnoe
+# Config fastfetch
 Config Fastfetch
